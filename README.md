@@ -1,5 +1,5 @@
 ![follow your dream](https://github.com/kimodev1990/images-to-readme/assets/146226516/079a1ace-bed6-491c-9694-bcda907ed399)
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=35&duration=3000&pause=500&color=5B2FF7&random=false&width=435&lines=Hi+there!+I'm+Kimo.;Front-End+Developer" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=35&duration=1500&pause=500&color=733DF7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Kimo;Front-End+Developer" alt="Typing SVG" /></a></div>
 
 ## 🚀 About Me
 <h5 align="center">
