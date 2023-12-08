@@ -9,7 +9,7 @@
   </h5>
   
 ## Current Activites
-- 👨‍💻 I’m currently focusing on **Honing my skills in HTML, CSS ,JavaScript and completing Challenges & Projects on Frontend Mentor**
+- 👨‍💻 I’m currently focusing on **Honing my skills in HTML, CSS & JavaScript and completing Challenges & Projects on Frontend Mentor**
 
 - 🧠 I’m currently learning **Bootstrap, React**
 
