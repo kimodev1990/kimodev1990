@@ -1,6 +1,4 @@
-![follow your dream](https://github.com/kimodev1990/images-to-readme/assets/146226516/079a1ace-bed6-491c-9694-bcda907ed399)
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=35&duration=1500&pause=500&color=733DF7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Kimo;Front-End+Developer" alt="Typing SVG" /></a></div>
-
+![2](https://github.com/kimodev1990/kimodev1990/assets/146226516/4d09e978-91e2-428e-9260-81cc5241b87d)
 ## 🚀 About Me
 <h5 align="center">
   I'm a Passionate Front End Developer & aiming to master both Front End and Back End Development promoting to be Full Stack Developer.
