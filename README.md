@@ -1,7 +1,7 @@
 ![2](https://github.com/kimodev1990/kimodev1990/assets/146226516/4d09e978-91e2-428e-9260-81cc5241b87d)
 ## 🚀 About Me
 <h5 align="center">
-  I'm a Passionate Front End Developer & aiming to master both Front End and Back End Development promoting to be Full Stack Developer.
+  I'm a Passionate Front End Developer & aiming to master Front End and Back End Development promoting to be Full Stack Developer.
   <br>Really eager to create spectacular responsive websites and applications that provide great user experiences.<br>
   The keypoint here is always keep moving forward, consistency & never give up
   </h5>
