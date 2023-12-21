@@ -9,7 +9,7 @@
 ## Current Activites
 - 👨‍💻 I’m currently focusing on **Honing my skills in HTML, CSS & JavaScript by completing Challenges & designing Projects**
 
-- 🧠 currently learning **Bootstrap, React**
+- 🧠 currently learning **Tailwind, React**
 
 - 📫 Feel free to reach out to me if you have any questions or would like to collaborate on a project via email: **kimodev1990@gmail.com**
 
