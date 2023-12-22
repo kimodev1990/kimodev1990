@@ -1,5 +1,3 @@
-![2](https://github.com/kimodev1990/kimodev1990/assets/146226516/4d09e978-91e2-428e-9260-81cc5241b87d)
-
 <h2>Hi! I'm Kimo and I'm a Front-end Developer! 💻 </h2>
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kimodev1990&theme=dracula&hide_border=false"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimodev1990&hide=sass,php&theme=dracula&show_icons=true&hide_border=false&layout=compact">
