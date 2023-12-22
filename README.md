@@ -2,7 +2,7 @@
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kimodev1990&theme=dracula&hide_border=false"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimodev1990&hide=sass,php&theme=dracula&show_icons=true&hide_border=false&layout=compact">
 
-<h2>Languages & tools: </h2>
+<h2>Languages & Tools: </h2>
 <div style="display: inline_block">
   <img align="center" alt="Icone-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icone-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -35,5 +35,5 @@
 <br>
 
 ## 📈 Achievements
-- I have successfully completed over 20 projects on Frontend Mentor and shared my code with others.
-- I have provided feedback on projects on Frontend Mentor website
+- I have successfully completed over 20 challenges on Frontend Mentor and shared my code with others.
+- I have provided feedback on designs on Frontend Mentor website.
