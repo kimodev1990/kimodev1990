@@ -35,5 +35,5 @@
 <br>
 
 ## 📈 Achievements
-- I have successfully completed over 20 challenges on Frontend Mentor and shared my code with others.
+- I have successfully completed over 20 projects on Frontend Mentor and shared my code with others.
 - I have provided feedback on designs on Frontend Mentor website.
