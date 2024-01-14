@@ -19,7 +19,7 @@
 <br>
 
 
-- 🧠 Currently learning **Tailwind, React**
+- 🧠 Currently learning **React**
 
 - 🔍 Take a look at my work on [Frontend Mentor](https://www.frontendmentor.io/profile/kimodev1990)
 
