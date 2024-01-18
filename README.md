@@ -19,7 +19,7 @@
 <br>
 
 
-- 🧠 Currently learning **React & Node JS**
+- 🧠 Currently learning **React , Node JS**
 
 - 🔍 Take a look at my work on [Frontend Mentor](https://www.frontendmentor.io/profile/kimodev1990)
 
