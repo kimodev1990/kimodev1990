@@ -1,4 +1,4 @@
-<h2>Hi! I'm Kimo and I'm a Front-end Developer! 💻 </h2>
+<h2>Hi! I'm Kimo and I'm a Front-end Developer 💻 </h2>
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kimodev1990&theme=dracula&hide_border=false"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimodev1990&hide=sass,php&theme=dracula&show_icons=true&hide_border=false&layout=compact">
 
