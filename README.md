@@ -30,7 +30,7 @@
 - Improve my knowledge of web development standards and incorporate them into designing projects.
 - Contributing into open source projects.
 - Work & gain experience in Front-end development.
-- Share my knowledge and experience by teaching and mentoring others in the tech community.
+- Share my knowledge and experience by teaching & mentoring others in the tech community.
 - Aiming to learn Back-end Development and being Full Stack Developer.
 <br>
 
