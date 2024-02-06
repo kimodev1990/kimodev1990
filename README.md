@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 <h5 align="center">
-  I'm a self-taught front-end developer passionate about crafting engaging and user-friendly web experiences. With a blend of creativity and technical skills, I've honed my abilities through self-directed learning and hands-on projects.<br>My journey into the world of web development began as a personal pursuit driven by curiosity and a desire to create. Over time, I've immersed myself in various front-end technologies, constantly pushing the boundaries of what's possible on the web.
+  I'm a self-taught front-end developer passionate about crafting engaging and user-friendly web experiences.<br> With a blend of creativity and technical skills, I've honed my abilities through self-directed learning and hands-on projects.<br>My journey into the world of web development began as a personal pursuit driven by curiosity and a desire to create. Over time, I've immersed myself in various front-end technologies, constantly pushing the boundaries of what's possible on the web.
   </h5>
 <br>
 
