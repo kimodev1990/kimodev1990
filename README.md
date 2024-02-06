@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 <h5 align="center">
-  I'm a Passionate Front End Developer & aiming to master Front End and Back End Development promoting to be Full Stack Developer.
-  <br>Really eager to create spectacular responsive websites and applications that provide great user experiences.<br>
-  The keypoint here is always keep moving forward, consistency & never give up
+  I'm a Passionate Front End Developer.
+  Really eager to create spectacular responsive websites and applications that provide great user experiences.
+  <br>The keypoint here is always keep moving forward, consistency & never give up
   </h5>
 <br>
 
